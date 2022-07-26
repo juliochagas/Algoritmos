@@ -1,0 +1,15 @@
+C:\Dev\algoritimos\cap3\ex3s\bin\Debug\net6.0\ex3s.exe
+C:\Dev\algoritimos\cap3\ex3s\bin\Debug\net6.0\ex3s.deps.json
+C:\Dev\algoritimos\cap3\ex3s\bin\Debug\net6.0\ex3s.runtimeconfig.json
+C:\Dev\algoritimos\cap3\ex3s\bin\Debug\net6.0\ex3s.dll
+C:\Dev\algoritimos\cap3\ex3s\bin\Debug\net6.0\ex3s.pdb
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\ex3s.csproj.AssemblyReference.cache
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\ex3s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\ex3s.AssemblyInfoInputs.cache
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\ex3s.AssemblyInfo.cs
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\ex3s.csproj.CoreCompileInputs.cache
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\ex3s.dll
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\refint\ex3s.dll
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\ex3s.pdb
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\ex3s.genruntimeconfig.cache
+C:\Dev\algoritimos\cap3\ex3s\obj\Debug\net6.0\ref\ex3s.dll

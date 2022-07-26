@@ -1,0 +1,15 @@
+C:\Dev\algoritimos\cap3\ex3q\bin\Debug\net6.0\ex3q.exe
+C:\Dev\algoritimos\cap3\ex3q\bin\Debug\net6.0\ex3q.deps.json
+C:\Dev\algoritimos\cap3\ex3q\bin\Debug\net6.0\ex3q.runtimeconfig.json
+C:\Dev\algoritimos\cap3\ex3q\bin\Debug\net6.0\ex3q.dll
+C:\Dev\algoritimos\cap3\ex3q\bin\Debug\net6.0\ex3q.pdb
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\ex3q.csproj.AssemblyReference.cache
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\ex3q.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\ex3q.AssemblyInfoInputs.cache
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\ex3q.AssemblyInfo.cs
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\ex3q.csproj.CoreCompileInputs.cache
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\ex3q.dll
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\refint\ex3q.dll
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\ex3q.pdb
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\ex3q.genruntimeconfig.cache
+C:\Dev\algoritimos\cap3\ex3q\obj\Debug\net6.0\ref\ex3q.dll

@@ -1,0 +1,15 @@
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/bin/Debug/net6.0/ex3d
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/bin/Debug/net6.0/ex3d.deps.json
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/bin/Debug/net6.0/ex3d.runtimeconfig.json
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/bin/Debug/net6.0/ex3d.dll
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/bin/Debug/net6.0/ref/ex3d.dll
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/bin/Debug/net6.0/ex3d.pdb
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/obj/Debug/net6.0/ex3d.csproj.AssemblyReference.cache
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/obj/Debug/net6.0/ex3d.GeneratedMSBuildEditorConfig.editorconfig
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/obj/Debug/net6.0/ex3d.AssemblyInfoInputs.cache
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/obj/Debug/net6.0/ex3d.AssemblyInfo.cs
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/obj/Debug/net6.0/ex3d.csproj.CoreCompileInputs.cache
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/obj/Debug/net6.0/ex3d.dll
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/obj/Debug/net6.0/ref/ex3d.dll
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/obj/Debug/net6.0/ex3d.pdb
+/home/juliochagas/Dev/algoritimos/cap3/ex3d/obj/Debug/net6.0/ex3d.genruntimeconfig.cache
